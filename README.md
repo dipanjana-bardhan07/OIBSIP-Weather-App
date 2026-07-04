@@ -14,3 +14,15 @@ A Python-based application that fetches and displays live weather data for any r
 This project requires the `requests` library. You can install it using the repository's `requirements.txt` file or via pip:
 ```bash
 pip install requests
+
+
+## Prerequisites
+This project requires the external `requests` library. You can install it using pip:
+```bash
+pip install requests
+
+How to Run
+Ensure you have Python installed, then execute the script via terminal:
+
+Bash
+python weather_app.py
