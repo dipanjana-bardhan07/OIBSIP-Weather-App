@@ -1,6 +1,5 @@
 # OIBSIP-Weather-App
 
-## 3. README for Weather App Repository
 ```markdown
 # Task: Command-Line Weather Application
 
